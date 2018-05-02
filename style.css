@@ -1,0 +1,128 @@
+
+
+header a{
+    color:grey;
+
+}
+header > nav > a:first-child{
+    background: white;
+}
+
+header a:hover{
+    color:#008955;
+}
+div#uno{
+    background-image: url(https://d2mgbjyendvdw0.cloudfront.net/26538/03322/e4dcbf/opendesk_shot3_2045_edit.full.jpg);
+}
+div#dos{
+    background-image: url(https://d2mgbjyendvdw0.cloudfront.net/21165/02289/32c436/opendesk_homepage_maker-feature_renatus.full.jpg); 
+}
+div.filaimagen {
+    background-position: center center;
+    background-size: cover;
+    padding-top: 180px;
+    padding-bottom: 140px;
+    padding-left: 180px;
+    filter:brightness(0.6);
+    color:white;
+}
+
+#pasos {
+margin: 50px;
+}
+
+#pasos > button {
+    background: #007a4c;
+    border: .1rem solid #008955;
+    color: #fff;
+    border-radius: .4rem;
+    min-width: 12rem;
+    font-size: 1.2rem;
+}
+
+#pasos .fab {
+   margin-top:50px;
+   margin-bottom:50px;
+   font-size: 3em;
+}
+#pasos >p:first-child{
+
+    letter-spacing:3 px;
+}
+
+a.btn, button{
+ background-color:#008955 !important;
+
+}
+#mivideo{
+    padding:80px;
+}
+
+
+
+
+/*
+
+nav > div:last-child > a:nth-child(2){
+
+    color:#008955;
+    font-weight: bold;
+    margin-right: 50px;
+}
+nav > div:last-child > a:first-child {
+    margin-right: 50px;
+}
+
+#portada h2,p {
+    margin-top: 100px;
+    margin-bottom: 100px;
+   
+    margin-left: 100px;   
+}
+
+#portada button {
+    margin-top: 1.9rem;
+    background: #008955;
+    border: .1rem solid #008955;
+    color: #fff;
+}
+
+
+nav > div:first-child  {
+   
+    font-size: small;
+  
+}
+
+
+header > div:fist-child {
+
+    margin-left:0px;
+}
+*/
+div#muebles > div {
+    text-align: center;
+    border-color: white;
+}
+div#muebles {
+    background-color: #f1f1f1;
+    padding:60px 80px 60px 50px;
+}
+.card-body {
+    
+    background-color:#f1f1f1; 
+}
+.card:hover {
+    border: .1rem solid #c9f2e2;
+   
+}
+
+
+footer{
+    background:grey;
+}
+footer a {
+     color:white;
+     font-weight: bold;
+     text-align: center;
+}
